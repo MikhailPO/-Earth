@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/obj">
+        <file>earth.mtl</file>
+        <file>earth.obj</file>
+        <file>FinalBaseMesh.obj</file>
+    </qresource>
+</RCC>
